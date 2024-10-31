@@ -37,9 +37,9 @@ Multiple Linear Regression study using US and global renewable energy datasets.
    ```
    git clone <the link you copied>
    ```
-5. Navigate to the cloned repository: ```cd repository-name```
-6. Run the "Jupyter_Test.ipynb" notebook to confirm that everything works.
-7. Copy the "Project_Journal.ipynb" file and rename the copied file to ProjectJournal_YourName.ipynb, replacing YourName with your actual name (this will be your personal project journal that you'll update as you work).
+5. Navigate to the cloned repository: ```cd Renewable-Energy-Project```
+6. Run the ```Jupyter_Test.ipynb``` notebook to confirm that everything works (it'll be in you Program Explorer or you can open it from the terminal ```code Jupyter_Test.ipynb```).
+7. Copy the ```Project_Journal.ipynb``` file and rename the copied file to ```ProjectJournal_YourName.ipynb```, replacing YourName with your actual name (this will be your personal project journal that you'll update as you work).
 8. Commit and push your changes:
    1. Make sure to save the notebook (Ctrl + S) after making changes.
    2. Click on the Source Control icon in the Activity Bar (or press Ctrl + Shift + G).
