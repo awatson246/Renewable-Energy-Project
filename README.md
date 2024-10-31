@@ -42,10 +42,15 @@ Multiple Linear Regression study using US and global renewable energy datasets.
 7. Copy the ```Project_Journal.ipynb``` file and rename the copied file to ```ProjectJournal_YourName.ipynb```, replacing YourName with your actual name (this will be your personal project journal that you'll update as you work).
 8. Commit and push your changes:
    1. Make sure to save the notebook (Ctrl + S) after making changes.
-   2. Click on the Source Control icon in the Activity Bar (or press Ctrl + Shift + G).
-   3. You will see your modified files. Hover over your file and click the + icon to stage it.
-   4. In the message box at the top, enter a commit message (e.g., "Updated project journal") and click the checkmark icon to commit.
-   5. Click the "..." menu in the Source Control view and select Push to push your changes to the remote repository.
+   2. If you're new to using Git in VSCode, you'll have to set your username and email in the terminal:
+      ```
+      git config --global user.name "Your Name"
+      git config --global user.email "your_email@example.com"
+      ```
+   4. Click on the Source Control icon in the Activity Bar (or press Ctrl + Shift + G).
+   5. You will see your modified files. Hover over your file and click the + icon to stage it.
+   6. In the message box at the top, enter a commit message (e.g., "Updated project journal") and click the checkmark icon to commit.
+   7. Click the "..." menu in the Source Control view and select Push to push your changes to the remote repository.
 9. Before making any new updates, ensure you have the latest version from the repository:
     ```
     git pull origin main
