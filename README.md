@@ -36,7 +36,6 @@ Multiple Linear Regression study using US and global renewable energy datasets.
 4. Open a new terminal in VSCode by going to View > Terminal or pressing Ctrl + ` and run the following command:
    ```
    git clone <the link you copied>
-
    ```
 5. Navigate to the cloned repository: ```cd repository-name```
 6. Run the "Jupyter_Test.ipynb" notebook to confirm that everything works.
