@@ -5,7 +5,7 @@ Multiple Linear Regression study using US and global renewable energy datasets.
 The United States has made great strides to prioritize renewable energy since the Public Utility Regulatory Policies Act (PURPA) was enacted in 1978 [1]. As a result, the use of renewable energy in the United States has grown exponentially [2]. Recent technology booms have further emphasized the need for renewable energy as it fosters energy independence and economic growth in addition to contributing towards a more sustainable future.  
 
 ## Datasets and Variables
-The Datasets used are: 
+The datasets used are: 
 - [U.S. Renewable Energy Consumption](https://www.kaggle.com/datasets/alistairking/renewable-energy-consumption-in-the-u-s)
 - [World Energy Statistics](https://www.kaggle.com/datasets/akhiljethwa/world-energy-statistics)
 
